@@ -1,0 +1,21 @@
+{
+  "name": "creative-coding-workshop",
+  "version": "0.0.1",
+  "description": "Code related to Matt DesLauriers' creative code workshop on Frontend Masters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "canvas",
+    "webgl",
+    "shaders",
+    "generative art"
+  ],
+  "author": "Daniel Hinze",
+  "license": "ISC",
+  "dependencies": {
+    "canvas-sketch": "^0.1.1",
+    "canvas-sketch-cli": "^1.1.9"
+  }
+}
